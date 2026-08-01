@@ -44,7 +44,7 @@ Make sure you have the following installed:
 ### Installation
 #### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/izwairfan06-star/Password-Generator.git
 ```
 #### 2. Navigate to the project directory
 ```bash
@@ -85,4 +85,3 @@ http://localhost:5173
 - 🚫 Exclude ambiguous characters (O, 0, I, l)
 <img width="1890" height="870" alt="image" src="https://github.com/user-attachments/assets/fa5b1adb-ab95-4959-829a-c2f77e414376" />
 
-### ⭐ If you found GeniPass helpful, consider giving the repository a star and sharing it with others!
