@@ -1,8 +1,7 @@
 
 # 🔐 GeniPass - Password Generator
 A modern, responsive, and secure **Password Generator** built with **React**, **Vite**, and **Tailwind CSS**. GeniPass allows users to generate strong and customizable passwords by selecting the desired password length and character types. It also features one-click clipboard copying for a seamless user experience.
-## 🚀 Live Demo
-**https://genipass.netlify.app/**
+
 ## ✨ Features
 - 🔐 Generate strong and secure passwords instantly
 - 📏 Customize password length (8–100 characters)
